@@ -4,12 +4,13 @@ A Web Browser game for 2 Players using HTML5, CSS3 and JavaScript DOM manipulati
 It can be played by 2 people.
 
 Features:
-1. It contains two Dices.
-2. Each user roll the dice using roll dice button.
-3. Initially dice will be hidden.
-4. After each roll Player get a score which will be shown in current boxes.
-5. If user want to hold the current score then can use hold button and the score will be added to the players global score.
-6. If user get a '1' then the chance will be given to other player.
-7. Final Score can be defined by the players otherwise deafault is 100.
-8. The Player which score final score first will be the winner.
+
+It contains two Dices.
+Each user rolls the dice using the roll dice button.
+Initially, dice will be hidden.
+After each roll Player gets a score which will be shown in current boxes.
+If a user wants to hold the current score then can use the hold button and the score will be added to the player's global score.
+If the user gets a '1' then the chance will be given to another player.
+Final Score can be defined by the players otherwise the default is 100.
+The Player which score final score first will be the winner.
 
